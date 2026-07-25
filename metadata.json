@@ -1,0 +1,6 @@
+{
+  "name": "AuraBrain",
+  "description": "Comprehensive personal psychological profile and trajectory analysis combining planetary calculations, numerical patterns, and deep life trajectory synthesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
